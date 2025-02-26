@@ -1,0 +1,19 @@
+python>=3.10
+pip==23.3.1
+black
+flake8
+ipython
+isort
+jupyterlab
+matplotlib==3.5.1
+seaborn==0.13.2
+notebook
+numpy==1.22.3
+pandas==1.4.2
+sweetviz==2.3.1
+python-dotenv
+scikit-learn
+-e .
+
+
+
